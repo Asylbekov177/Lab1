@@ -1,9 +1,9 @@
 import pygame as pg
 pg.init()
 
-mus1 = "C:\\PP2\\lab7\\mus1.mp3"
-mus2 = "C:\\PP2\\lab7\\mus2.mp3"
-mus3 = "C:\\PP2\\lab7\\mus3.mp3"
+mus1 = "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\python projects\\Lab 7\\mus1.mp3"
+mus2 = "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\python projects\\Lab 7\\mus2.mp3"
+mus3 = "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\python projects\\Lab 7\\mus3.mp3"
 screen = pg.display.set_mode((360, 360))
 pg.display.set_caption("player")
 
